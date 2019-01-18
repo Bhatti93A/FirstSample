@@ -8,10 +8,10 @@
 <title>Abhay's Hello World Java EE</title>
 </head>
 <body>
-	<h1>Hello JSP and Servlet!</h1>
+	<h1>ABhay'Hello JSP and Servlet!</h1>
 	<form action="helloServlet" method="post">
 		Enter your name: <input type="text" name="yourName" size="20">
-		<input type="Click me" value="Call Servlet" />
+		<input type="Submit" value="Click me" />
 	</form>
 </body>
 </html>
