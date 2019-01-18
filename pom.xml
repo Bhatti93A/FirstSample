@@ -89,7 +89,7 @@
 						<format>xml</format>
 					</formats>
 					<check>
-						<haltOnFailure>false</haltOnFailure>
+						<haltOnFailure>true</haltOnFailure>
 						<lineRate>50</lineRate>
 						<branchRate>50</branchRate>
 						<totalLineRate>50</totalLineRate>
